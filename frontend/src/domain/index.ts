@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as iceCreamCatalog from './iceCreamCatalog/_module';

@@ -6,4 +6,7 @@
  * @module instances
  */
 
-
+/**
+ * Ice Cream Catalog instances
+ */
+export { iceCreamStore } from './iceCreamCatalog';
